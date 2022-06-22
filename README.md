@@ -1,2 +1,2 @@
 # TurtlePython
-Some projects developed by me in turtle
+Some projects developed with Turtle 
